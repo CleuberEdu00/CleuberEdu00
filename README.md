@@ -16,7 +16,7 @@ If you're here, feel free to explore my repositories and follow my journey.
 
 ## Fun Facts:
 
-- I study Software Engineering at IFG
-- I like building practical projects to learn faster
-- I'm focused on becoming a strong backend developer
+- I study Software Engineering at IFG  
+- I like building practical projects to learn faster  
+- I'm exploring software development and data-related areas  
 - I believe consistency beats talent when talent stops improving
